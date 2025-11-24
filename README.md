@@ -23,17 +23,17 @@ This is a multi-page personal portfolio website designed to display academic, pe
 
 ## File Structure
 
-
-- project-folder/
+```
+project-folder/
 │── index.html
 │── about.html
 │── projects.html
 │── contact.html
 │── styles.css
-|── README.md
-|── report.md
+│── README.md
+│── report.md
 │── assets/
-│ ├── Logo.jpg
-│ ├── profile_pic.jpg
-
+│     ├── Logo.jpg
+│     ├── profile_pic.jpg
+```
 
