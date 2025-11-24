@@ -22,8 +22,15 @@ This is a multi-page personal portfolio website designed to display academic, pe
 - Simple, clean HTML and CSS structure.
 
 ## File Structure
-- index.html
-- about.html
-- projects.html
-- contact.html
-- styles.css
+- project-folder/
+│── index.html
+│── about.html
+│── projects.html
+│── contact.html
+│── styles.css
+|── README.md
+|── report.md
+│── assets/
+│ ├── Logo.jpg
+│ ├── profile_pic.jpg
+
